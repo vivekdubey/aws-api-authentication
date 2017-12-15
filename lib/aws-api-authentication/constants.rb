@@ -1,0 +1,8 @@
+module Constants
+  RED_COLOR = "\033[01;31m"
+  RESET_COLOR = "\033[00m"
+  GREEN_COLOR = "\033[32m"
+  BLUE_COLOR = "\033[34m"
+  PURPLE_COLOUR = "\033[01;35m"
+  YELLOW_COLOR = "\033[0;33m"
+end
