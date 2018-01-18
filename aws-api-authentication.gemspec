@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Vivek Dubey"]
   s.email       = 'vatsa.vivek@gmail.com'
   s.files       = ["lib/aws-api-authentication.rb"]
-  s.add_runtime_dependency 'aws-sdk', '2.8.14'
+  s.add_runtime_dependency 'aws-sdk', '2.10.107'
   s.add_runtime_dependency 'rake', '10.4.2'
   s.add_runtime_dependency 'bundler', '> 1.10.6'
 end
